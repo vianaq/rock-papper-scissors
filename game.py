@@ -1,5 +1,5 @@
-human_turn = input('Input human turn: ')
-computer_turn = input('Input computer turn: ')
+human_turn = 'rock'
+computer_turn = 'scissors'
 
 if human_turn == computer_turn :
     print('Draw!')
