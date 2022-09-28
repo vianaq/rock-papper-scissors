@@ -1,6 +1,4 @@
-
-        
-    import random
+import random
 turns = ['rock', 'paper', 'scissors']
 
 while(True):
@@ -22,4 +20,5 @@ while(True):
     print('Human wins!')
  else:
     print('Computer wins!')
+
 
